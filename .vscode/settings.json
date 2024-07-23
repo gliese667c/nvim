@@ -1,0 +1,13 @@
+{
+    "Lua.diagnostics.globals": [
+        "opts",
+        "LazyVim",
+        "vim",
+        "M"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-doc-name",
+        "undefined-field",
+        "undefined-global"
+    ]
+}
